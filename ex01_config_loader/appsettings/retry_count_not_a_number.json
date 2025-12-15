@@ -1,0 +1,6 @@
+{
+  "app_name": "BadRetry",
+  "environment": "dev",
+  "log_level": "INFO",
+  "retry_count": "not-a-number"
+}

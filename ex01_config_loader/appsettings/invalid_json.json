@@ -1,0 +1,6 @@
+{
+  "app_name": "SyntaxError"
+  "environment": "dev",
+  "log_level": "INFO",
+  "retry_count": 1
+}

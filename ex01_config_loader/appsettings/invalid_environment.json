@@ -1,0 +1,6 @@
+{
+  "app_name": "BadEnv",
+  "environment": "staging",
+  "log_level": "INFO",
+  "retry_count": 2
+}

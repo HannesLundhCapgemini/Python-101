@@ -1,0 +1,6 @@
+{
+  "app_name": "BadLogLevel",
+  "environment": "test",
+  "log_level": "verbose",
+  "retry_count": 1
+}
