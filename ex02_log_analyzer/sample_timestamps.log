@@ -1,0 +1,20 @@
+[2024-05-20 09:15:23] [INFO] Application started
+[2024-05-20 09:15:24] [DEBUG] Loading configuration files
+[2024-05-20 09:15:25] [INFO] User 'alice' logged in
+[2024-05-20 09:15:30] [WARN] Cache is nearing capacity
+[2024-05-20 09:15:34] [ERROR] Failed to connect to database
+[2024-05-20 09:15:36] [INFO] Retrying database connection
+[2024-05-20 09:15:39] [ERROR] Connection retry #1 failed
+[2024-05-20 09:15:45] [DEBUG] Starting background sync task
+[2024-05-20 09:15:50] [TRACE] Verbose diagnostic message
+[2024-05-20 09:15:54] [INFO] Background sync task completed
+
+    [2024-05-20 09:16:00]    [DEBUG]   Extra whitespace before level
+[2024-05-20 09:16:03] [ERROR] Something went wrong
+
+# Invalid lines
+This line is not valid log format
+[2024-05-20 09:16:10] Missing level brackets
+[2024-05-20 09:16:12]
+
+[2024-05-20 09:16:15] [INFO] Shutdown initiated

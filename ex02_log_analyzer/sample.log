@@ -1,0 +1,18 @@
+[INFO] Application started
+[DEBUG] Initializing modules
+[INFO] User logged in
+[ERROR] Failed to load configuration
+[WARN] Low disk space
+[INFO] Background job scheduled
+
+   [DEBUG]   Extra whitespace before level
+[ERROR] Something went wrong
+
+# This is an invalid line (no brackets)
+Invalid log entry
+
+[INFO]   
+[ERROR]
+
+[TRACE] This level is uncommon but valid format-wise
+[INFO] Application closed successfully
